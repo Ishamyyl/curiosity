@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "C:\\Users\\rossh\\.virtualenvs\\curiosity-WjRrmH-j\\Scripts\\python.exe",
+    "python.testing.pyTestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pyTestEnabled": false,
+    "python.testing.promptToConfigure": false,
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "150"
+    ],
+}
